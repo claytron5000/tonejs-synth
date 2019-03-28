@@ -1,0 +1,10 @@
+button {
+    width: 45px;
+    height: 300px;
+    background: ivory;
+    border-radius: 0;
+    border: 1px solid #222;
+}
+button.clicked {
+    box-shadow: inset 0px -2px 4px #333
+}
